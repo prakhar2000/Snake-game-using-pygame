@@ -1,0 +1,4113 @@
+('C:\\Users\\Prakhar Goel\\Desktop\\snakes game\\build\\snakesgame\\PYZ-00.pyz',
+ [('multiprocessing.popen_spawn_posix',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\stat.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('win32com',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\imp.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('packaging.__about__',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('packaging._compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._typing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\random.py',
+   'PYMODULE'),
+  ('pygame',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils.compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\compat.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.pep425tags',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\pep425tags.py',
+   'PYMODULE'),
+  ('setuptools.glibc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\glibc.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\configparser.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.namespaces',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\namespaces.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('setuptools.command.develop',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_rpm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.command.install',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\setuptools\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py_testing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\f2py_testing.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('fileinput',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('curses',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('pipes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pipes.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('scipy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.helper',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_pocketfft\\helper.py',
+   'PYMODULE'),
+  ('scipy.fft._backend',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_backend.py',
+   'PYMODULE'),
+  ('scipy._lib.uarray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\uarray.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_uarray\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray._backend',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_uarray\\_backend.py',
+   'PYMODULE'),
+  ('scipy._lib._pep440',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_pep440.py',
+   'PYMODULE'),
+  ('scipy.fft._helper',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_pocketfft\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.realtransforms',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_pocketfft\\realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.basic',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_pocketfft\\basic.py',
+   'PYMODULE'),
+  ('scipy.fft._realtransforms',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._basic',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\fft\\_basic.py',
+   'PYMODULE'),
+  ('scipy._lib._testutils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_testutils.py',
+   'PYMODULE'),
+  ('pytest',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pytest\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.warnings',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\warnings.py',
+   'PYMODULE'),
+  ('_pytest.unittest',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\unittest.py',
+   'PYMODULE'),
+  ('_pytest._code',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_code\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.tmpdir',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\tmpdir.py',
+   'PYMODULE'),
+  ('py',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\__init__.py',
+   'PYMODULE'),
+  ('py._vendored_packages',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_vendored_packages\\__init__.py',
+   'PYMODULE'),
+  ('attr',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\__init__.py',
+   'PYMODULE'),
+  ('attr._version_info',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\_version_info.py',
+   'PYMODULE'),
+  ('attr._make',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\_make.py',
+   'PYMODULE'),
+  ('attr._compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\_compat.py',
+   'PYMODULE'),
+  ('attr._funcs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\_funcs.py',
+   'PYMODULE'),
+  ('attr.validators',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\validators.py',
+   'PYMODULE'),
+  ('attr.filters',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\filters.py',
+   'PYMODULE'),
+  ('attr.exceptions',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\exceptions.py',
+   'PYMODULE'),
+  ('attr.converters',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\converters.py',
+   'PYMODULE'),
+  ('attr._config',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\attr\\_config.py',
+   'PYMODULE'),
+  ('_pytest.timing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\timing.py',
+   'PYMODULE'),
+  ('_pytest.terminal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\terminal.py',
+   'PYMODULE'),
+  ('pluggy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pluggy\\__init__.py',
+   'PYMODULE'),
+  ('pluggy.hooks',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pluggy\\hooks.py',
+   'PYMODULE'),
+  ('pluggy.callers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pluggy\\callers.py',
+   'PYMODULE'),
+  ('pluggy.manager',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pluggy\\manager.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'C:\\Users\\Prakhar '
+   'Goel\\AppData\\Roaming\\Python\\Python37\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'C:\\Users\\Prakhar '
+   'Goel\\AppData\\Roaming\\Python\\Python37\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('zipp',
+   'C:\\Users\\Prakhar '
+   'Goel\\AppData\\Roaming\\Python\\Python37\\site-packages\\zipp.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\csv.py',
+   'PYMODULE'),
+  ('pluggy._tracing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pluggy\\_tracing.py',
+   'PYMODULE'),
+  ('pluggy._version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pluggy\\_version.py',
+   'PYMODULE'),
+  ('_pytest.store',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\store.py',
+   'PYMODULE'),
+  ('_pytest.stepwise',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\stepwise.py',
+   'PYMODULE'),
+  ('_pytest.skipping',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\skipping.py',
+   'PYMODULE'),
+  ('_pytest.setupplan',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\setupplan.py',
+   'PYMODULE'),
+  ('_pytest.setuponly',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\setuponly.py',
+   'PYMODULE'),
+  ('_pytest.runner',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\runner.py',
+   'PYMODULE'),
+  ('_pytest.reports',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\reports.py',
+   'PYMODULE'),
+  ('_pytest._io',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_io\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.pytester',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\pytester.py',
+   'PYMODULE'),
+  ('iniconfig',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\iniconfig\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.pathlib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\pathlib.py',
+   'PYMODULE'),
+  ('_pytest.pastebin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\pastebin.py',
+   'PYMODULE'),
+  ('_pytest.nose',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\nose.py',
+   'PYMODULE'),
+  ('_pytest.monkeypatch',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\monkeypatch.py',
+   'PYMODULE'),
+  ('_pytest.mark.structures',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\mark\\structures.py',
+   'PYMODULE'),
+  ('_pytest.mark.expression',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\mark\\expression.py',
+   'PYMODULE'),
+  ('_pytest.logging',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\logging.py',
+   'PYMODULE'),
+  ('_pytest.junitxml',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\junitxml.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.hookspec',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\hookspec.py',
+   'PYMODULE'),
+  ('_pytest.helpconfig',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\helpconfig.py',
+   'PYMODULE'),
+  ('_pytest.faulthandler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\faulthandler.py',
+   'PYMODULE'),
+  ('_pytest.doctest',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\doctest.py',
+   'PYMODULE'),
+  ('_pytest.deprecated',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\deprecated.py',
+   'PYMODULE'),
+  ('_pytest.config.findpaths',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\config\\findpaths.py',
+   'PYMODULE'),
+  ('toml',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\toml\\__init__.py',
+   'PYMODULE'),
+  ('toml.decoder',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\toml\\decoder.py',
+   'PYMODULE'),
+  ('toml.tz',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\toml\\tz.py',
+   'PYMODULE'),
+  ('toml.encoder',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\toml\\encoder.py',
+   'PYMODULE'),
+  ('_pytest.config.exceptions',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\config\\exceptions.py',
+   'PYMODULE'),
+  ('_pytest.config.argparsing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\config\\argparsing.py',
+   'PYMODULE'),
+  ('_pytest.compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\compat.py',
+   'PYMODULE'),
+  ('_pytest.capture',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\capture.py',
+   'PYMODULE'),
+  ('colorama',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('_pytest.cacheprovider',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\cacheprovider.py',
+   'PYMODULE'),
+  ('_pytest.assertion.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\assertion\\util.py',
+   'PYMODULE'),
+  ('_pytest.assertion.truncate',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\assertion\\truncate.py',
+   'PYMODULE'),
+  ('_pytest.assertion.rewrite',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\assertion\\rewrite.py',
+   'PYMODULE'),
+  ('atomicwrites',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\atomicwrites\\__init__.py',
+   'PYMODULE'),
+  ('_pytest._version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_version.py',
+   'PYMODULE'),
+  ('_pytest._io.wcwidth',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_io\\wcwidth.py',
+   'PYMODULE'),
+  ('_pytest._io.terminalwriter',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_io\\terminalwriter.py',
+   'PYMODULE'),
+  ('pygments',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\__init__.py',
+   'PYMODULE'),
+  ('pygments.styles.perldoc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\perldoc.py',
+   'PYMODULE'),
+  ('pygments.token',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\token.py',
+   'PYMODULE'),
+  ('pygments.style',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\style.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_light',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\stata_light.py',
+   'PYMODULE'),
+  ('pygments.styles.vs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\vs.py',
+   'PYMODULE'),
+  ('pygments.styles.bw',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\bw.py',
+   'PYMODULE'),
+  ('pygments.styles.rrt',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\rrt.py',
+   'PYMODULE'),
+  ('pygments.styles.native',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\native.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_light',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\paraiso_light.py',
+   'PYMODULE'),
+  ('pygments.styles.murphy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\murphy.py',
+   'PYMODULE'),
+  ('pygments.styles.manni',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\manni.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_dark',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\stata_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.vim',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\vim.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\friendly.py',
+   'PYMODULE'),
+  ('pygments.styles.colorful',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\colorful.py',
+   'PYMODULE'),
+  ('pygments.styles.arduino',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\arduino.py',
+   'PYMODULE'),
+  ('pygments.styles.rainbow_dash',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\rainbow_dash.py',
+   'PYMODULE'),
+  ('pygments.styles.monokai',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\monokai.py',
+   'PYMODULE'),
+  ('pygments.styles.default',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\default.py',
+   'PYMODULE'),
+  ('pygments.styles.tango',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\tango.py',
+   'PYMODULE'),
+  ('pygments.styles.pastie',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\pastie.py',
+   'PYMODULE'),
+  ('pygments.styles.xcode',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\xcode.py',
+   'PYMODULE'),
+  ('pygments.styles.emacs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\emacs.py',
+   'PYMODULE'),
+  ('pygments.styles.borland',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\borland.py',
+   'PYMODULE'),
+  ('pygments.styles.solarized',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\solarized.py',
+   'PYMODULE'),
+  ('pygments.styles.lovelace',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\lovelace.py',
+   'PYMODULE'),
+  ('pygments.styles.algol_nu',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\algol_nu.py',
+   'PYMODULE'),
+  ('pygments.styles.sas',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\sas.py',
+   'PYMODULE'),
+  ('pygments.styles',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\__init__.py',
+   'PYMODULE'),
+  ('pygments.util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\util.py',
+   'PYMODULE'),
+  ('pygments.plugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\plugin.py',
+   'PYMODULE'),
+  ('pygments.styles.inkpot',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\inkpot.py',
+   'PYMODULE'),
+  ('pygments.styles.trac',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\trac.py',
+   'PYMODULE'),
+  ('pygments.styles.igor',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\igor.py',
+   'PYMODULE'),
+  ('pygments.styles.fruity',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\fruity.py',
+   'PYMODULE'),
+  ('pygments.styles.abap',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\abap.py',
+   'PYMODULE'),
+  ('pygments.styles.algol',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\algol.py',
+   'PYMODULE'),
+  ('pygments.styles.autumn',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\autumn.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_dark',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\styles\\paraiso_dark.py',
+   'PYMODULE'),
+  ('pygments.lexers.ml',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ml.py',
+   'PYMODULE'),
+  ('pygments.lexer',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexer.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('pygments.regexopt',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\regexopt.py',
+   'PYMODULE'),
+  ('pygments.filters',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\filters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.filter',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\filter.py',
+   'PYMODULE'),
+  ('pygments.lexers.igor',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\igor.py',
+   'PYMODULE'),
+  ('pygments.lexers.rdf',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\rdf.py',
+   'PYMODULE'),
+  ('pygments.lexers.roboconf',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\roboconf.py',
+   'PYMODULE'),
+  ('pygments.lexers.pascal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\pascal.py',
+   'PYMODULE'),
+  ('pygments.scanner',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\scanner.py',
+   'PYMODULE'),
+  ('pygments.lexers.automation',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\automation.py',
+   'PYMODULE'),
+  ('pygments.lexers.crystal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\crystal.py',
+   'PYMODULE'),
+  ('pygments.lexers.installers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\installers.py',
+   'PYMODULE'),
+  ('pygments.lexers.ecl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ecl.py',
+   'PYMODULE'),
+  ('pygments.lexers.console',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\console.py',
+   'PYMODULE'),
+  ('pygments.lexers.parsers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\parsers.py',
+   'PYMODULE'),
+  ('pygments.lexers.nix',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\nix.py',
+   'PYMODULE'),
+  ('pygments.lexers.inferno',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\inferno.py',
+   'PYMODULE'),
+  ('pygments.lexers.eiffel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\eiffel.py',
+   'PYMODULE'),
+  ('pygments.lexers.shell',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\shell.py',
+   'PYMODULE'),
+  ('pygments.lexers.teraterm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\teraterm.py',
+   'PYMODULE'),
+  ('pygments.lexers.archetype',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\archetype.py',
+   'PYMODULE'),
+  ('pygments.lexers.r',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\r.py',
+   'PYMODULE'),
+  ('pygments.lexers.functional',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\functional.py',
+   'PYMODULE'),
+  ('pygments.lexers._openedge_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_openedge_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.robotframework',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\robotframework.py',
+   'PYMODULE'),
+  ('pygments.lexers.business',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\business.py',
+   'PYMODULE'),
+  ('pygments.lexers.diff',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\diff.py',
+   'PYMODULE'),
+  ('pygments.lexers.ampl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ampl.py',
+   'PYMODULE'),
+  ('pygments.lexers.modula2',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\modula2.py',
+   'PYMODULE'),
+  ('pygments.lexers.basic',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\basic.py',
+   'PYMODULE'),
+  ('pygments.lexers.rnc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\rnc.py',
+   'PYMODULE'),
+  ('pygments.lexers.text',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\text.py',
+   'PYMODULE'),
+  ('pygments.lexers.css',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\css.py',
+   'PYMODULE'),
+  ('pygments.lexers.praat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\praat.py',
+   'PYMODULE'),
+  ('pygments.lexers.special',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\special.py',
+   'PYMODULE'),
+  ('pygments.lexers.d',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\d.py',
+   'PYMODULE'),
+  ('pygments.lexers.verification',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\verification.py',
+   'PYMODULE'),
+  ('pygments.lexers._mql_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_mql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._asy_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_asy_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cl_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_cl_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.sgf',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\sgf.py',
+   'PYMODULE'),
+  ('pygments.lexers._tsql_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_tsql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.other',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\other.py',
+   'PYMODULE'),
+  ('pygments.lexers.rust',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\rust.py',
+   'PYMODULE'),
+  ('pygments.lexers._mapping',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.lexers.php',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\php.py',
+   'PYMODULE'),
+  ('pygments.lexers.smv',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\smv.py',
+   'PYMODULE'),
+  ('pygments.lexers.foxpro',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\foxpro.py',
+   'PYMODULE'),
+  ('pygments.lexers.oberon',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\oberon.py',
+   'PYMODULE'),
+  ('pygments.lexers._stata_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_stata_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.hdl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\hdl.py',
+   'PYMODULE'),
+  ('pygments.lexers.scripting',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\scripting.py',
+   'PYMODULE'),
+  ('pygments.lexers.testing',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\testing.py',
+   'PYMODULE'),
+  ('pygments.lexers.objective',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\objective.py',
+   'PYMODULE'),
+  ('pygments.lexers.monte',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\monte.py',
+   'PYMODULE'),
+  ('pygments.lexers.csound',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\csound.py',
+   'PYMODULE'),
+  ('pygments.lexers.slash',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\slash.py',
+   'PYMODULE'),
+  ('pygments.lexers.perl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\perl.py',
+   'PYMODULE'),
+  ('pygments.lexers.clean',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\clean.py',
+   'PYMODULE'),
+  ('pygments.lexers.data',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\data.py',
+   'PYMODULE'),
+  ('pygments.lexers.dsls',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\dsls.py',
+   'PYMODULE'),
+  ('pygments.lexers.solidity',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\solidity.py',
+   'PYMODULE'),
+  ('pygments.lexers.haskell',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\haskell.py',
+   'PYMODULE'),
+  ('pygments.lexers.mime',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\mime.py',
+   'PYMODULE'),
+  ('pygments.lexers.fortran',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\fortran.py',
+   'PYMODULE'),
+  ('pygments.lexers.bibtex',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\bibtex.py',
+   'PYMODULE'),
+  ('pygments.lexers.int_fiction',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\int_fiction.py',
+   'PYMODULE'),
+  ('pygments.lexers.grammar_notation',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\grammar_notation.py',
+   'PYMODULE'),
+  ('pygments.lexers.capnproto',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\capnproto.py',
+   'PYMODULE'),
+  ('pygments.lexers.ambient',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ambient.py',
+   'PYMODULE'),
+  ('pygments.lexers.ruby',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ruby.py',
+   'PYMODULE'),
+  ('pygments.lexers.freefem',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\freefem.py',
+   'PYMODULE'),
+  ('pygments.lexers.actionscript',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\actionscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.usd',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\usd.py',
+   'PYMODULE'),
+  ('pygments.lexers.ncl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ncl.py',
+   'PYMODULE'),
+  ('pygments.lexers.ride',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ride.py',
+   'PYMODULE'),
+  ('pygments.lexers.apl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\apl.py',
+   'PYMODULE'),
+  ('pygments.lexers.dylan',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\dylan.py',
+   'PYMODULE'),
+  ('pygments.lexers.iolang',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\iolang.py',
+   'PYMODULE'),
+  ('pygments.lexers.mosel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\mosel.py',
+   'PYMODULE'),
+  ('pygments.lexers.tcl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\tcl.py',
+   'PYMODULE'),
+  ('pygments.lexers.pony',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\pony.py',
+   'PYMODULE'),
+  ('pygments.lexers.erlang',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\erlang.py',
+   'PYMODULE'),
+  ('pygments.lexers.html',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\html.py',
+   'PYMODULE'),
+  ('pygments.lexers._php_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_php_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.dotnet',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\dotnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.sql',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\sql.py',
+   'PYMODULE'),
+  ('pygments.lexers.varnish',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\varnish.py',
+   'PYMODULE'),
+  ('pygments.lexers.pawn',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\pawn.py',
+   'PYMODULE'),
+  ('pygments.lexers.supercollider',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\supercollider.py',
+   'PYMODULE'),
+  ('pygments.lexers.smalltalk',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\smalltalk.py',
+   'PYMODULE'),
+  ('pygments.lexers.snobol',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\snobol.py',
+   'PYMODULE'),
+  ('pygments.lexers.resource',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\resource.py',
+   'PYMODULE'),
+  ('pygments.lexers.textedit',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\textedit.py',
+   'PYMODULE'),
+  ('pygments.lexers.haxe',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\haxe.py',
+   'PYMODULE'),
+  ('pygments.lexers.prolog',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\prolog.py',
+   'PYMODULE'),
+  ('pygments.lexers.configs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\configs.py',
+   'PYMODULE'),
+  ('pygments.lexers.compiled',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\compiled.py',
+   'PYMODULE'),
+  ('pygments.lexers.nimrod',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\nimrod.py',
+   'PYMODULE'),
+  ('pygments.lexers.factor',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\factor.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_cpp',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\c_cpp.py',
+   'PYMODULE'),
+  ('pygments.lexers.javascript',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\javascript.py',
+   'PYMODULE'),
+  ('pygments.lexers.textfmts',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\textfmts.py',
+   'PYMODULE'),
+  ('pygments.lexers.make',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\make.py',
+   'PYMODULE'),
+  ('pygments.lexers.whiley',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\whiley.py',
+   'PYMODULE'),
+  ('pygments.lexers.email',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\email.py',
+   'PYMODULE'),
+  ('pygments.lexers.sas',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\sas.py',
+   'PYMODULE'),
+  ('pygments.lexers.matlab',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\matlab.py',
+   'PYMODULE'),
+  ('pygments.lexers._usd_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_usd_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.boa',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\boa.py',
+   'PYMODULE'),
+  ('pygments.lexers.unicon',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\unicon.py',
+   'PYMODULE'),
+  ('pygments.lexers._vim_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_vim_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\__init__.py',
+   'PYMODULE'),
+  ('pygments.modeline',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\modeline.py',
+   'PYMODULE'),
+  ('pygments.lexers.chapel',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\chapel.py',
+   'PYMODULE'),
+  ('pygments.lexers.theorem',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\theorem.py',
+   'PYMODULE'),
+  ('pygments.lexers.ooc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ooc.py',
+   'PYMODULE'),
+  ('pygments.lexers.forth',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\forth.py',
+   'PYMODULE'),
+  ('pygments.lexers._scilab_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_scilab_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.x10',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\x10.py',
+   'PYMODULE'),
+  ('pygments.lexers.dalvik',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\dalvik.py',
+   'PYMODULE'),
+  ('pygments.lexers._lua_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_lua_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.agile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\agile.py',
+   'PYMODULE'),
+  ('pygments.lexers.go',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\go.py',
+   'PYMODULE'),
+  ('pygments.lexers.hexdump',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\hexdump.py',
+   'PYMODULE'),
+  ('pygments.lexers.graph',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\graph.py',
+   'PYMODULE'),
+  ('pygments.lexers.urbi',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\urbi.py',
+   'PYMODULE'),
+  ('pygments.lexers.lisp',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\lisp.py',
+   'PYMODULE'),
+  ('pygments.lexers.idl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\idl.py',
+   'PYMODULE'),
+  ('pygments.lexers.floscript',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\floscript.py',
+   'PYMODULE'),
+  ('pygments.lexers._cocoa_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_cocoa_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.qvt',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\qvt.py',
+   'PYMODULE'),
+  ('pygments.lexers.fantom',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\fantom.py',
+   'PYMODULE'),
+  ('pygments.lexers.jvm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\jvm.py',
+   'PYMODULE'),
+  ('pygments.lexers._sourcemod_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.zig',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\zig.py',
+   'PYMODULE'),
+  ('pygments.lexers.typoscript',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\typoscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.esoteric',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\esoteric.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_like',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\c_like.py',
+   'PYMODULE'),
+  ('pygments.lexers.xorg',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\xorg.py',
+   'PYMODULE'),
+  ('pygments.lexers.rebol',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\rebol.py',
+   'PYMODULE'),
+  ('pygments.lexers.asm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\asm.py',
+   'PYMODULE'),
+  ('pygments.lexers.j',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\j.py',
+   'PYMODULE'),
+  ('pygments.lexers.webidl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\webidl.py',
+   'PYMODULE'),
+  ('pygments.lexers.elm',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\elm.py',
+   'PYMODULE'),
+  ('pygments.lexers._lasso_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_lasso_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.modeling',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\modeling.py',
+   'PYMODULE'),
+  ('pygments.lexers._vbscript_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_vbscript_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.felix',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\felix.py',
+   'PYMODULE'),
+  ('pygments.lexers.webmisc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\webmisc.py',
+   'PYMODULE'),
+  ('pygments.lexers.markup',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\markup.py',
+   'PYMODULE'),
+  ('pygments.lexers.ezhil',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\ezhil.py',
+   'PYMODULE'),
+  ('pygments.lexers.templates',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\templates.py',
+   'PYMODULE'),
+  ('pygments.lexers.sieve',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\sieve.py',
+   'PYMODULE'),
+  ('pygments.lexers.parasail',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\parasail.py',
+   'PYMODULE'),
+  ('pygments.lexers._postgres_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_postgres_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.julia',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\julia.py',
+   'PYMODULE'),
+  ('pygments.lexers._stan_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_stan_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.scdoc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\scdoc.py',
+   'PYMODULE'),
+  ('pygments.lexers._csound_builtins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\_csound_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphics',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\graphics.py',
+   'PYMODULE'),
+  ('pygments.lexers.math',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\math.py',
+   'PYMODULE'),
+  ('pygments.lexers.web',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\web.py',
+   'PYMODULE'),
+  ('pygments.lexers.algebra',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\algebra.py',
+   'PYMODULE'),
+  ('pygments.lexers.nit',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\nit.py',
+   'PYMODULE'),
+  ('pygments.lexers.trafficscript',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\trafficscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.stata',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\stata.py',
+   'PYMODULE'),
+  ('pygments.formatters._mapping',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.formatters.other',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\other.py',
+   'PYMODULE'),
+  ('pygments.console',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\console.py',
+   'PYMODULE'),
+  ('pygments.formatter',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatter.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal256',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\terminal256.py',
+   'PYMODULE'),
+  ('pygments.formatters.irc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\irc.py',
+   'PYMODULE'),
+  ('pygments.formatters.bbcode',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\bbcode.py',
+   'PYMODULE'),
+  ('pygments.formatters.html',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\html.py',
+   'PYMODULE'),
+  ('pygments.formatters',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatters.img',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\img.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\fractions.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('cffi',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('pygments.formatters.latex',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\latex.py',
+   'PYMODULE'),
+  ('pygments.formatters.svg',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\svg.py',
+   'PYMODULE'),
+  ('pygments.formatters.rtf',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\rtf.py',
+   'PYMODULE'),
+  ('pygments.unistring',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\unistring.py',
+   'PYMODULE'),
+  ('pygments.lexers.python',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\lexers\\python.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygments\\formatters\\terminal.py',
+   'PYMODULE'),
+  ('_pytest._io.saferepr',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_io\\saferepr.py',
+   'PYMODULE'),
+  ('_pytest._code.source',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_code\\source.py',
+   'PYMODULE'),
+  ('_pytest._code.code',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_code\\code.py',
+   'PYMODULE'),
+  ('_pytest._argcomplete',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\_argcomplete.py',
+   'PYMODULE'),
+  ('py.test',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\test.py',
+   'PYMODULE'),
+  ('py._xmlgen',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_xmlgen.py',
+   'PYMODULE'),
+  ('py._version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_version.py',
+   'PYMODULE'),
+  ('py._vendored_packages.iniconfig',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_vendored_packages\\iniconfig.py',
+   'PYMODULE'),
+  ('py._vendored_packages.apipkg',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_vendored_packages\\apipkg.py',
+   'PYMODULE'),
+  ('py._std',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_std.py',
+   'PYMODULE'),
+  ('py._process.killproc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_process\\killproc.py',
+   'PYMODULE'),
+  ('py._process',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_process\\__init__.py',
+   'PYMODULE'),
+  ('py._process.forkedfunc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_process\\forkedfunc.py',
+   'PYMODULE'),
+  ('py._process.cmdexec',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_process\\cmdexec.py',
+   'PYMODULE'),
+  ('py._path.svnwc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_path\\svnwc.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('py._path',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_path\\__init__.py',
+   'PYMODULE'),
+  ('py._path.svnurl',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_path\\svnurl.py',
+   'PYMODULE'),
+  ('py._path.local',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_path\\local.py',
+   'PYMODULE'),
+  ('py._path.common',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_path\\common.py',
+   'PYMODULE'),
+  ('py._path.cacheutil',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_path\\cacheutil.py',
+   'PYMODULE'),
+  ('py._log.warning',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_log\\warning.py',
+   'PYMODULE'),
+  ('py._log',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_log\\__init__.py',
+   'PYMODULE'),
+  ('py._log.log',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_log\\log.py',
+   'PYMODULE'),
+  ('py._io.terminalwriter',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_io\\terminalwriter.py',
+   'PYMODULE'),
+  ('py._io',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_io\\__init__.py',
+   'PYMODULE'),
+  ('py._io.saferepr',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_io\\saferepr.py',
+   'PYMODULE'),
+  ('py._io.capture',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_io\\capture.py',
+   'PYMODULE'),
+  ('py._error',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_error.py',
+   'PYMODULE'),
+  ('py._code.source',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_code\\source.py',
+   'PYMODULE'),
+  ('py._code',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_code\\__init__.py',
+   'PYMODULE'),
+  ('py._code.code',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_code\\code.py',
+   'PYMODULE'),
+  ('py._code.assertion',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_code\\assertion.py',
+   'PYMODULE'),
+  ('py._code._py2traceback',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_code\\_py2traceback.py',
+   'PYMODULE'),
+  ('py._code._assertionold',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_code\\_assertionold.py',
+   'PYMODULE'),
+  ('py._code._assertionnew',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_code\\_assertionnew.py',
+   'PYMODULE'),
+  ('py._builtin',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\_builtin.py',
+   'PYMODULE'),
+  ('py.__metainfo',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\py\\__metainfo.py',
+   'PYMODULE'),
+  ('_pytest.warning_types',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\warning_types.py',
+   'PYMODULE'),
+  ('_pytest.recwarn',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\recwarn.py',
+   'PYMODULE'),
+  ('_pytest.python_api',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\python_api.py',
+   'PYMODULE'),
+  ('_pytest.python',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\python.py',
+   'PYMODULE'),
+  ('_pytest.outcomes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\outcomes.py',
+   'PYMODULE'),
+  ('_pytest.nodes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\nodes.py',
+   'PYMODULE'),
+  ('_pytest.mark',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\mark\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.main',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\main.py',
+   'PYMODULE'),
+  ('_pytest.freeze_support',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\freeze_support.py',
+   'PYMODULE'),
+  ('_pytest.fixtures',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\fixtures.py',
+   'PYMODULE'),
+  ('_pytest.debugging',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\debugging.py',
+   'PYMODULE'),
+  ('_pytest.config',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\config\\__init__.py',
+   'PYMODULE'),
+  ('_pytest.assertion',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\assertion\\__init__.py',
+   'PYMODULE'),
+  ('_pytest',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pytest\\__init__.py',
+   'PYMODULE'),
+  ('pytest.collect',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pytest\\collect.py',
+   'PYMODULE'),
+  ('scipy._lib._ccallback',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_ccallback.py',
+   'PYMODULE'),
+  ('scipy._lib._version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\_version.py',
+   'PYMODULE'),
+  ('scipy._lib.six',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\six.py',
+   'PYMODULE'),
+  ('scipy.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\version.py',
+   'PYMODULE'),
+  ('scipy.__config__',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\__config__.py',
+   'PYMODULE'),
+  ('scipy._distributor_init',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('scipy._lib.deprecation',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\scipy\\_lib\\deprecation.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame._numpysndarray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\_numpysndarray.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame._numpysurfarray',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\_numpysurfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.compat',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\compat.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'c:\\users\\prakhar '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pygame\\version.py',
+   'PYMODULE')])
